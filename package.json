@@ -1,0 +1,23 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "A node js using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnil-webonise/node-express.git"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Swapnil Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnil-webonise/node-express/issues"
+  },
+  "homepage": "https://github.com/swapnil-webonise/node-express#readme"
+}
