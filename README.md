@@ -8,9 +8,3 @@ Without debugging:
 ```bash
 $ npm start
 ```
-
-With debugging:
-
-```bash
-$ DEBUG=express:* node ./bin/www
-```
